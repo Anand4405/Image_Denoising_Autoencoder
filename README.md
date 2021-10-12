@@ -24,6 +24,8 @@ ReLU and Sigmoid activation Functions are used to bring non-linearity in model.
 ## Loss Function and Optimization:
 Mean Square Loss (MSE) function is used to calculate loss. 
 ADAM Optimizer is used for optimization of model with learning rate 0.001
+![image](https://user-images.githubusercontent.com/87741857/136992098-834deea5-3c69-4701-86b1-ed12a16d72e7.png)
+
 
 ## Noise Added
 Random noise added via torch.randn() such that we can change noise by changing noise factor. We can also add Gaussin noise,salt noise and many more types of noises.
