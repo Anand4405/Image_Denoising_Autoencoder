@@ -47,6 +47,9 @@ Reconstructed Images:
 
 ![image](https://user-images.githubusercontent.com/87741857/137061845-231567b6-5d66-4eb3-a087-73146ab56a54.png)
 
+![image](https://user-images.githubusercontent.com/87741857/137061892-dbe793ff-f2f2-4445-9e90-f30f3335cbd8.png)
+
+![image](https://user-images.githubusercontent.com/87741857/137061912-943a0bb4-5750-476b-b179-7fe47981f455.png)
 
 
 
