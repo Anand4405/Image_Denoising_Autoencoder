@@ -18,6 +18,11 @@ Layer 3: Conv2d(32,64,5)
 Layer 4: ConvTranspose2d(64,32,5)
 Layer 5: ConvTranspose2d(32,16,3,stride=2,padding=1,output_padding=1)
 Layer 6: ConvTranspose2d(16,1,3,stride=2,padding=1,output_padding=1)
+## Hyperparameters
+Batch Size = 100
+Learning rate = 0.001
+MSE Loss
+ADAM Optimizer
 ## Activation Functions
 ReLU and Sigmoid activation Functions are used to bring non-linearity in model.
 
