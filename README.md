@@ -24,7 +24,14 @@ ReLU and Sigmoid activation Functions are used to bring non-linearity in model.
 ## Loss Function and Optimization:
 Mean Square Loss (MSE) function is used to calculate loss. 
 ADAM Optimizer is used for optimization of model with learning rate 0.001
+MNIST:
+
 ![image](https://user-images.githubusercontent.com/87741857/136992098-834deea5-3c69-4701-86b1-ed12a16d72e7.png)
+
+FASHIONMNIST:
+
+![image](https://user-images.githubusercontent.com/87741857/137062244-8bf87fc9-d431-46e3-b6cc-270cc7da31c2.png)
+
 
 
 ## Noise Added
@@ -45,11 +52,11 @@ Reconstructed Images:
 
 ![image](https://user-images.githubusercontent.com/87741857/136761853-a323de91-977c-4188-8685-84d507b72084.png)
 
-![image](https://user-images.githubusercontent.com/87741857/137061845-231567b6-5d66-4eb3-a087-73146ab56a54.png)
+![image](https://user-images.githubusercontent.com/87741857/137062161-737bac83-bca4-4bbb-b6d1-4bcefe954792.png)
 
-![image](https://user-images.githubusercontent.com/87741857/137061892-dbe793ff-f2f2-4445-9e90-f30f3335cbd8.png)
+![image](https://user-images.githubusercontent.com/87741857/137062177-ad8de0a0-2efe-4bdb-8690-0eaa4e089718.png)
 
-![image](https://user-images.githubusercontent.com/87741857/137061912-943a0bb4-5750-476b-b179-7fe47981f455.png)
+![image](https://user-images.githubusercontent.com/87741857/137062195-ef22e580-303e-49ae-829d-7cc2f7309ade.png)
 
 
 
