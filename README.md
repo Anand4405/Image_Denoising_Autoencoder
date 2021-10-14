@@ -1,10 +1,13 @@
 # Image_Denoising_Autoencoder
+## Table Of Contents
+
+-[Dataset](#dataset)
 
 ## Dataset:
 MNIST dataset used for training a model. 
 MNIST contains 60000 training examples and 10000 testing examples.
 
-"[Architecture]",Architecture of Model,"(y)"
+
 
 
 ## Architecture Of Model
