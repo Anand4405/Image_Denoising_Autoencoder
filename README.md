@@ -1,7 +1,13 @@
 # Image_Denoising_Autoencoder
 ## Table Of Contents
 
--[Dataset](#dataset)
+- [Dataset](#dataset)
+- [Architecture Of Model](#architecture-of-model)
+- [Hyperparamters](#hyperparameters)
+- [Activation Function](#activation-functions)
+- [Loss FUnction and Optimization](#loss-function-and-optimization)
+- [Noise Added](#noise-added)
+- [Output](#output)
 
 ## Dataset:
 MNIST dataset used for training a model. 
