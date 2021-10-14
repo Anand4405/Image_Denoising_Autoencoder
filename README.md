@@ -4,6 +4,9 @@
 MNIST dataset used for training a model. 
 MNIST contains 60000 training examples and 10000 testing examples.
 
+["click here],## Architecture Of Model
+
+
 ## Architecture Of Model
 
 Convolutional Neural Network (CNN) used for creating a model. This model contains 6 layers in which 3 are of encoder and 3 of decoder.
