@@ -4,7 +4,7 @@
 MNIST dataset used for training a model. 
 MNIST contains 60000 training examples and 10000 testing examples.
 
-["click here],## Architecture Of Model
+"[click here]",## Architecture Of Model
 
 
 ## Architecture Of Model
