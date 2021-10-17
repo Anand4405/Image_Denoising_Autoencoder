@@ -24,12 +24,17 @@ For decoder used ConvTranspose2d  filter and it takes parameters as ConvTranspos
  
 Model Consists of following sequence of Layers:
 Layer 1: Conv2d(1,16,3,stride=2,padding=1)
+
 Layer 2: Conv2d(16,32,3,stride=2,padding=1)
+
 Layer 3: Conv2d(32,64,5)
 
 Layer 4: ConvTranspose2d(64,32,5)
+
 Layer 5: ConvTranspose2d(32,16,3,stride=2,padding=1,output_padding=1)
+
 Layer 6: ConvTranspose2d(16,1,3,stride=2,padding=1,output_padding=1)
+
 ## Hyperparameters
 Batch Size = 100
 
