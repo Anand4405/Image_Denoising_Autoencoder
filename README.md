@@ -23,6 +23,7 @@ For encoder used Conv2d filter and it takes parameter as Con2d(input_channels,ou
 For decoder used ConvTranspose2d  filter and it takes parameters as ConvTranspose2d(input_channels,output_channels,kernel_size,stride,padding,output_padding)
  
 Model Consists of following sequence of Layers:
+
 Layer 1: Conv2d(1,16,3,stride=2,padding=1)
 
 Layer 2: Conv2d(16,32,3,stride=2,padding=1)
